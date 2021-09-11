@@ -1,0 +1,3 @@
+firststring="Hacking-Lab is"
+secondstring="great!"
+echo "myvariables executed!"

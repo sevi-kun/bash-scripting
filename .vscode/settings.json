@@ -1,0 +1,5 @@
+{
+    "editor.defaultFormatter": "shakram02.bash-beautify",
+    "editor.formatOnType": true,
+    "editor.formatOnSave": true
+}
